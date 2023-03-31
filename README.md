@@ -7,12 +7,13 @@
 **eGreenBin** is an open source solution born to solve the problem of garbage sorting by helping to build and form habits and awareness for children from an early age.
 
 Our goal is provide solution for those 3 major pillar recommended by WHO.
+<div align="center">
+  <img src="images/education.png" alt="Screenshot 2" height="200"/>
+  <img src="images/climate.png" alt="Screenshot 3" height="200"/>
+  <img src="images/consumption.png" alt="Screenshot 4" height="200"/>
+</div>
 
-![Untitled](images/education.png)
 
-![Untitled](images/climate.png)
-
-![Untitled](images/consumption.png)
 
 ## Solution in action
 
@@ -22,15 +23,23 @@ Youtobe: link video submit
 
 ### **eGreenBin smart bin**
 
-![Untitled](images/bin.png)
+<div align="center">
+    <img src="images/bin.png" alt="Screenshot 4" height="200"/>
+</div>
+<div align="center">
+    <img src="https://media.giphy.com/media/3PPV6myovCACi3cuv9/giphy.gif" alt="Screenshot 4" height="200"/>
+</div>
+<div align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWI5NGM0ODkyOWMzYmQzNzg1MGI2ZTI4NDMyZGY0YWVhY2QxNTdjYiZjdD1n/zd6LxU8fxogdFFWfK5/giphy.gif" alt="Screenshot 4"/>
+</div>
 
-![https://media.giphy.com/media/3PPV6myovCACi3cuv9/giphy.gif](https://media.giphy.com/media/3PPV6myovCACi3cuv9/giphy.gif)
-
-![https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWI5NGM0ODkyOWMzYmQzNzg1MGI2ZTI4NDMyZGY0YWVhY2QxNTdjYiZjdD1n/zd6LxU8fxogdFFWfK5/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWI5NGM0ODkyOWMzYmQzNzg1MGI2ZTI4NDMyZGY0YWVhY2QxNTdjYiZjdD1n/zd6LxU8fxogdFFWfK5/giphy.gif)
 
 ### **eGreenBin for teacher**
 
-![https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDIxYTBjYjYxMGMyNDlkN2E0YTM5MTBiNWMwMWI4NGI5ZTE2YTRhMCZjdD1n/IgTrLX9Ou58tmIaUBh/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDIxYTBjYjYxMGMyNDlkN2E0YTM5MTBiNWMwMWI4NGI5ZTE2YTRhMCZjdD1n/IgTrLX9Ou58tmIaUBh/giphy.gif)
+<div align="center">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDIxYTBjYjYxMGMyNDlkN2E0YTM5MTBiNWMwMWI4NGI5ZTE2YTRhMCZjdD1n/IgTrLX9Ou58tmIaUBh/giphy.gif" alt="Screenshot 4"/>
+</div>
+
 
 ### eGreenBin-devices
 
@@ -38,11 +47,17 @@ Youtobe: link video submit
 
 - IDE: PlatformIO / Arduino IDE:
     
-    ![Untitled](images/iot1.png)
+    
+<div align="center">
+    <img src="images/iot1.png" alt="Screenshot 4" width="700"/>
+</div>
     
     - Libraries:
         
-        ![Untitled](images/iot2.png)
+      
+<div align="center">
+    <img src="images/iot2.png" alt="Screenshot 4" width="700"/>
+</div>
         
         ⇒ ESP8266WiFi
         
@@ -62,37 +77,53 @@ Youtobe: link video submit
     - ESP8266:
         - Link: [ESP8266 Wi-Fi MCU I Espressif Systems](https://www.espressif.com/en/products/socs/esp8266)
         
-        ![Untitled](images/iot3.png)
+        
+<div align="center">
+    <img src="images/iot3.png" alt="Screenshot 4" width="300"/>
+</div>
         
     - HC-SR04 (Ultrasonic Sensor)
         - Link: [Ultrasonic Distance Sensor - HC-SR04 - SEN-15569 - SparkFun Electronics](https://www.sparkfun.com/products/15569)
         
-        ![Untitled](images/iot4.png)
+        
+<div align="center">
+    <img src="images/iot4.png" alt="Screenshot 4" width="300"/>
+</div>
         
     - LCD 16x2 I2C:
         - Link: [LCD 1602 kèm module I2C màu xanh lá - Nshop (nshopvn.com)](https://nshopvn.com/product/lcd-1602-kem-module-i2c-mau-xanh-la/)
         
-        ![Untitled](images/iot5.png)
+<div align="center">
+    <img src="images/iot5.png" alt="Screenshot 4" width="300"/>
+</div>
         
     - Driver A8825:
         - Link: [Mạch Điều Khiển Động Cơ Bước DRV8825 - Nshop (nshopvn.com)](https://nshopvn.com/product/mach-dieu-khien-dong-co-buoc-drv8825/)
         
-        ![Untitled](images/iot6.png)
+ <div align="center">
+    <img src="images/iot6.png" alt="Screenshot 4" width="300"/>
+</div>
         
     - Stepper Motor:
         - [Động cơ bước size 42 1.8 step - Nshop (nshopvn.com)](https://nshopvn.com/product/dong-co-buoc-size-42-1-8-step/)
         
-        ![Untitled](images/iot7.png)
+<div align="center">
+    <img src="images/iot7.png" alt="Screenshot 4" width="300"/>
+</div>
         
     - Power: 12V - 3A (Using **220V power directly or backup charger).**
     - Others:
         - BreadBoard:
             
-            ![Untitled](images/iot8.png)
+<div align="center">
+    <img src="images/iot8.png" alt="Screenshot 4" width="300"/>
+</div>
             
         - Wire:
             
-            ![Untitled](images/iot9.png)
+<div align="center">
+    <img src="images/iot9.png" alt="Screenshot 4" width="300"/>
+</div>
             
     - Materias
         - Formex
@@ -100,11 +131,15 @@ Youtobe: link video submit
     
     ⇒ For ease of control, I have added the CNC Shield V3 circuit to it:
     
-    ![Untitled](images/iot10.png)
+<div align="center">
+    <img src="images/iot10.png" alt="Screenshot 4" width="300"/>
+</div>
     
 2. **Wired diagram**
     
-    ![Untitled](images/iot11.png)
+<div align="center">
+    <img src="images/iot11.png" alt="Screenshot 4" width="400"/>
+</div>
     
     - **Explanation:**
         - We are using a 12V - 3A power supply directly from the 220V input to run the stepper motor by connecting with CNC Shield V3.
@@ -142,15 +177,24 @@ Youtobe: link video submit
 
 ## Use case diagram
 
-![uceGreenBin.jpg](images/usecase.jpg)
+
+<div align="center">
+    <img src="images/usecase.jpg" alt="Screenshot 4" width="600"/>
+</div>
 
 ## User flow
 
-![big%20repo%20291b89777325471e908ae43f5901413d/bpmnSystemOnBin.png](images/userFlow.png)
+<div align="center">
+    <img src="images/userFlow.png" alt="Screenshot 4" width="600"/>
+</div>
+
 
 ---
 
-![Untitled](images/tech.png)
+
+<div align="center">
+    <img src="images/tech.png" alt="Screenshot 4" width="600"/>
+</div>
 
 We also encourage everyone who is interested in the eGreenBin project to contribute to make eGreenBin better in the future.
 
