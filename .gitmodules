@@ -1,0 +1,18 @@
+[submodule "eGreenBinWasteClassification"]
+	path = eGreenBinWasteClassification
+	url = https://github.com/GDSC-UIT/eGreenBinWasteClassification
+[submodule "eGreenBinInteract"]
+	path = eGreenBinInteract
+	url = https://github.com/GDSC-UIT/eGreenBinInteract.git
+[submodule "eGreenBinFace_Recognition_api"]
+	path = eGreenBinFace_Recognition_api
+	url = https://github.com/GDSC-UIT/eGreenBinFace_Recognition_api
+[submodule "eGreenBin-mobile"]
+	path = eGreenBin-mobile
+	url = https://github.com/GDSC-UIT/eGreenBin-mobile.git
+[submodule "eGreenBin-backend-api"]
+	path = eGreenBin-backend-api
+	url = https://github.com/GDSC-UIT/eGreenBin-backend-api.git
+[submodule "eGreenBinIOT"]
+	path = eGreenBinIOT
+	url = https://github.com/GDSC-UIT/eGreenBinIOT.git
