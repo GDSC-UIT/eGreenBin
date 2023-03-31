@@ -200,8 +200,9 @@ We also encourage everyone who is interested in the eGreenBin project to contrib
 
 **Project structure module:**
 
-1. Mobile for garbage classification: link
-2. Mobile for face detect, recognition and interact: link
-3. Backend Golang: link
-4. Backend FastAPI to host AI: link
-5. IOT Embedded device: link
+1. Mobile for garbage classification: https://github.com/GDSC-UIT/eGreenBinWasteClassification.git
+2. Mobile for face detect, recognition and interact: https://github.com/GDSC-UIT/eGreenBinInteract.git
+3. Mobile for teacher: https://github.com/GDSC-UIT/eGreenBin-mobile.git
+4. Backend Golang: https://github.com/GDSC-UIT/eGreenBin-backend-api.git
+5. Backend FastAPI to host AI: https://github.com/GDSC-UIT/eGreenBinFace_Recognition_api.git
+6. IOT Embedded device: https://github.com/GDSC-UIT/eGreenBinIOT.git
