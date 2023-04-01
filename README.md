@@ -185,7 +185,7 @@ Youtobe: https://www.youtube.com/watch?v=zjyDpbqOUus
 ## User flow
 
 <div align="center">
-    <img src="images/userFlow.png" alt="Screenshot 4" width="600"/>
+    <img src="images/userflow.jpg" alt="Screenshot 4" width="600"/>
 </div>
 
 
