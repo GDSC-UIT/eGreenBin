@@ -104,11 +104,11 @@ Youtube: https://www.youtube.com/watch?v=zjyDpbqOUus
     <img src="images/iot6.png" alt="Screenshot 4" width="300"/>
 </div>
         
-    - Stepper Motor:
-        - [Động cơ bước size 42 1.8 step - Nshop (nshopvn.com)](https://nshopvn.com/product/dong-co-buoc-size-42-1-8-step/)
+    - Servo Motor:
+        - [Động servo - Nshop (nshopvn.com)](https://nshopvn.com/product/dong-co-servo-sg90-tower-pro/)
         
 <div align="center">
-    <img src="images/iot7.png" alt="Screenshot 4" width="300"/>
+    <img src="images/iot12.jpg" alt="Screenshot 4" width="300"/>
 </div>
         
     - Power: 12V - 3A (Using **220V power directly or backup charger).**
