@@ -24,7 +24,7 @@ Youtube: https://www.youtube.com/watch?v=zjyDpbqOUus
 ### **eGreenBin smart bin**
 
 <div align="center">
-    <img src="images/bin.png" alt="Screenshot 4" height="200"/>
+    <img src="images/new-bin.jpg" alt="Screenshot 4" height="200"/>
 </div>
 <div align="center">
     <img src="https://media.giphy.com/media/3PPV6myovCACi3cuv9/giphy.gif" alt="Screenshot 4" height="200"/>
