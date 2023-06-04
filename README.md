@@ -129,10 +129,10 @@ Youtube: https://www.youtube.com/watch?v=zjyDpbqOUus
         - Formex
         - Mica
     
-    ⇒ For ease of control, I have added the CNC Shield V3 circuit to it:
+    ⇒ For ease of control, I have added the Arduino Uno R3 circuit to it:
     
 <div align="center">
-    <img src="images/iot10.png" alt="Screenshot 4" width="300"/>
+    <img src="images/iot13.png" alt="Screenshot 4" width="300"/>
 </div>
     
 2. **Wired diagram**
