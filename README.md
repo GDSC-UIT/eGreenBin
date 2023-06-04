@@ -1,4 +1,3 @@
-
 # eGreenBin
 
 > **Every year, Vietnam in particular and the world in general spend hundreds of billions of dollars on garbage classification**
@@ -104,11 +103,11 @@ Youtube: https://www.youtube.com/watch?v=zjyDpbqOUus
     <img src="images/iot6.png" alt="Screenshot 4" width="300"/>
 </div>
         
-    - Stepper Motor:
-        - [Động cơ bước size 42 1.8 step - Nshop (nshopvn.com)](https://nshopvn.com/product/dong-co-buoc-size-42-1-8-step/)
+    - Servo Motor:
+        - [Động servo - Nshop (nshopvn.com)](https://nshopvn.com/product/dong-co-servo-sg90-tower-pro/)
         
 <div align="center">
-    <img src="images/iot7.png" alt="Screenshot 4" width="300"/>
+    <img src="images/iot12.jpg" alt="Screenshot 4" width="300"/>
 </div>
         
     - Power: 12V - 3A (Using **220V power directly or backup charger).**
@@ -129,10 +128,10 @@ Youtube: https://www.youtube.com/watch?v=zjyDpbqOUus
         - Formex
         - Mica
     
-    ⇒ For ease of control, I have added the CNC Shield V3 circuit to it:
+    ⇒ For ease of control, I have added the Arduino Uno R3 circuit to it:
     
 <div align="center">
-    <img src="images/iot10.png" alt="Screenshot 4" width="300"/>
+    <img src="images/iot13.jpg" alt="Screenshot 4" width="300"/>
 </div>
     
 2. **Wired diagram**
@@ -179,14 +178,13 @@ Youtube: https://www.youtube.com/watch?v=zjyDpbqOUus
 
 
 <div align="center">
-    <img src="images/usecase_diagram.png" alt="Screenshot 4" width="600"/>
+    <img src="images/usecase.png" alt="Screenshot 4" width="600"/>
 </div>
 
 ## User flow
 
 <div align="center">
-    <img src="images/userflow.PNG" 
-    alt="Screenshot 4" width="600"/>
+    <img src="images/userFlow.png" alt="Screenshot 4" width="600"/>
 </div>
 
 
@@ -199,11 +197,3 @@ Youtube: https://www.youtube.com/watch?v=zjyDpbqOUus
 
 We also encourage everyone who is interested in the eGreenBin project to contribute to make eGreenBin better in the future.
 
-**Project structure module:**
-
-1. Mobile for garbage classification: https://github.com/GDSC-UIT/eGreenBinWasteClassification.git
-2. Mobile for face detect, recognition and interact: https://github.com/GDSC-UIT/eGreenBinInteract.git
-3. Mobile for teacher: https://github.com/GDSC-UIT/eGreenBin-mobile.git
-4. Backend Golang: https://github.com/GDSC-UIT/eGreenBin-backend-api.git
-5. Backend FastAPI to host AI: https://github.com/GDSC-UIT/eGreenBinFace_Recognition_api.git
-6. IOT Embedded device: https://github.com/GDSC-UIT/eGreenBinIOT.git
