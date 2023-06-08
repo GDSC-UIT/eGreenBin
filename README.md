@@ -18,7 +18,7 @@ Our goal is provide solution for those 3 major pillar recommended by WHO.
 
 We submit our solution in GDSC solution challenge 2023 base on 17 Sustainable Development Goals of the United Nations,
 
-Youtube:youtube.com/watch?v=HTp6p7A_IFA&feature=youtu.be
+Youtube: [eGreenBin video](https://www.youtube.com/watch?v=HTp6p7A_IFA) 
 
 ### **eGreenBin smart bin**
 
